@@ -14,5 +14,5 @@ main() {
    cout<<"Toi la sinh vien truong DHQG HN, nganh CNTT, lop 20T3"<<endl;
    cout<<"Toi la sinh vien truong DHQG HN, nganh CNTT, lop 20T3, ma sinh vien TTP"<<endl;
    cout<<"be hai";
-   cout<<"SVDNKD";
+   cout<<"SVDNKD la con cc suv vat"
 }
